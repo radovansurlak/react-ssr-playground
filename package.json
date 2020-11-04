@@ -1,0 +1,20 @@
+{
+  "name": "react-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "babel-preset-react": "6.24.1",
+    "babel-register": "6.26.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-dom-server": "0.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
